@@ -46,7 +46,7 @@ const HomePage = () => {
                 <TagLogo src={Logo} />
                 </LogoContainer>
 
-                <Titulo>Milhões de filmes, séries e pessoas para descobrir. Explore já.</Titulo>
+                <Titulo>Milhões de filmes e séries para descobrir. Explore já.</Titulo>
             </Header>
             <ContainerCardMovies>
                 {feedMovies}
